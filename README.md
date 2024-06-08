@@ -9,7 +9,7 @@
 >| *Tuesday, 28th May 2024* | Introduction to c++ |
 >| *Friday, 31st May 2024*  | Basic I/O statement | 
 >| *Sunday, 2nd June 2024*  | String Concatenation| 
->|                          |                     | 
+>| *Saturday, 8th June 2024*| Comparing numbers   | 
 >|                          |                     | 
 >|                          |                     | 
 </details>
