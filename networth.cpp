@@ -13,7 +13,6 @@ int main(){
     income_tax = 15% * gross pay
     nhcl = 2.5% * gross pay
     direct_tax = 1% * gross pay  
-
     */
 
    int hours, regularMale, regularFemale;
