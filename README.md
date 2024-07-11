@@ -13,3 +13,7 @@
 >| *Thursday, 13th June 2024*   | C++ Switch          | 
 >| *Wednesday, 26th June 2024*  | C++ Trials          | 
 </details>
+
+* C++ Basics
+* C++ Functions 
+
