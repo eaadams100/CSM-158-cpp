@@ -1,0 +1,18 @@
+# HOW TO KNOW WHICH PARAMETERS A FUNCTION SHOULD TAKE.
+
+## 1. Identify the purpose of the function
+Before deciding on the parameters, clearly define what the function is supposed to do. What is its primary responsibility? What output is it expected to produce?
+
+## 2. Determine the inputs required
+Once you know the purpose of the function, think about what inputs are necessary to achieve that purpose. What data does the function need to process or manipulate?
+
+## 3. Consider the scope of the function
+Is the function a simple utility function that performs a specific calculation, or is it a more complex function that interacts with external systems or has side effects? If it's the latter, you may need to pass in additional parameters to handle these interactions.
+
+## 4. Use the following guidelines for parameter selection
+Pass by value: Use this for small, cheap-to-copy types like int, bool, or char.
+Pass by const reference: Use this for larger types like std::string or custom classes, where copying is expensive.
+Pass by non-const reference: Use this when the function needs to modify the original data.
+
+## 5. Avoid unnecessary parameters
+Don't pass in parameters that aren't used within the function. This can make the function signature harder to read and understand.
